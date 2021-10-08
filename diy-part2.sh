@@ -30,7 +30,7 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
 git clone https://github.com/immortalwrt/openwrt-iptvhelper.git package/iptvhelper
-svn co https://github.com/sirpdboy/build/trunk/main/luci-theme-chuqitopd package/luci-theme-chuqitopd
-svn co https://github.com/sirpdboy/sirpdboy-package/trunk/main/luci-theme-opentopd package/luci-theme-opentopd
+svn co https://github.com/sirpdboy/build/trunk/luci-theme-chuqitopd package/luci-theme-chuqitopd
+svn co https://github.com/sirpdboy/sirpdboy-package/trunk/luci-theme-opentopd package/luci-theme-opentopd
 git clone https://github.com/immortalwrt/luci-theme-infinityfreedom.git package/luci-theme-infinityfreedom
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
