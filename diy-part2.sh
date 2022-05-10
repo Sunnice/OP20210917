@@ -35,4 +35,4 @@ git clone https://github.com/immortalwrt/openwrt-iptvhelper.git package/iptvhelp
 git clone https://github.com/immortalwrt/luci-theme-infinityfreedom.git package/luci-theme-infinityfreedom
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/linkease/istore.git package/istore
-git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall && cd package/luci-app-passwall && git checkout eec4fc336788d66fc007a72417814f2aa4c034b9
+git clone https://github.com/Sunnice/passwall.git package/luci-app-passwall
