@@ -24,7 +24,8 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/adgu
 git clone https://github.com/skyformat99/eqos.git package/eqos
 git clone https://github.com/frainzy1477/luci-app-clash.git package/clash
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
+git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall && cd package/luci-app-passwall && git checkout eec4fc336788d66fc007a72417814f2aa4c034b9
+cd.. && cd ..
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon18.06
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
