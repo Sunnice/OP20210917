@@ -24,6 +24,7 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/adgu
 git clone https://github.com/skyformat99/eqos.git package/eqos
 git clone https://github.com/frainzy1477/luci-app-clash.git package/clash
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
+git clone https://github.com/Sunnice/passwall.git package/luci-app-passwall
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon18.06
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
@@ -35,4 +36,3 @@ git clone https://github.com/immortalwrt/openwrt-iptvhelper.git package/iptvhelp
 git clone https://github.com/immortalwrt/luci-theme-infinityfreedom.git package/luci-theme-infinityfreedom
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/linkease/istore.git package/istore
-git clone https://github.com/Sunnice/passwall.git package/luci-app-passwall
