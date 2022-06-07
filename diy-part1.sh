@@ -24,3 +24,5 @@
 
 #rm -rf feeds/packages/utils/syncthing
 #svn co https://github.com/Lienol/openwrt-packages/trunk/utils/syncthing feeds/packages/utils/syncthing
+
+svn co https://github.com/openwrt/luci/tru/libs/luci-lib-ipkg package/luci-lib-ipkg
