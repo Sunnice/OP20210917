@@ -39,4 +39,4 @@ git clone https://github.com/immortalwrt/openwrt-iptvhelper.git package/iptvhelp
 #svn co https://github.com/sirpdboy/sirpdboy-package/trunk/luci-theme-opentopd package/luci-theme-opentopd
 git clone https://github.com/immortalwrt/luci-theme-infinityfreedom.git package/luci-theme-infinityfreedom
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
-git clone https://github.com/linkease/istore.git package/istore
+#git clone https://github.com/linkease/istore.git package/istore
